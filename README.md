@@ -11,8 +11,7 @@ Just download the code and start the index.html file in chrome.
 - Several animations which can be viewed while hovering the pictures or cards.
 - Booking form
 - Header menu
-
-## Application Preview
+- Responsive website which is compatible with all the devices (desktop,mobile,tablet etc)
 
 ## Technologies used:
 
@@ -20,3 +19,14 @@ Just download the code and start the index.html file in chrome.
 - Advance css features like flex,grid,animations etc are used.
 - With scss it is more dynamic and has a clean and structured way or organizing files.
 - HTML5 is used to create the basic wireframe.
+
+## Checkout the pages here:
+
+https://packyourbags.netlify.app/
+
+## Application Preview
+
+![screencapture-packyourbags-netlify-app-2021-10-06-11_07_05](https://user-images.githubusercontent.com/59523944/136146494-4762e157-e00c-49fc-9a5a-102bb8903dec.jpg)
+
+
+
